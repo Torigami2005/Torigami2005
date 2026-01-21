@@ -1,3 +1,6 @@
+![](Laboratory 2/banner/Resume Header.png)
+
+
 # 💫 About Me:
 🔭 I’m currently working on a new project that won't start (jk)<br>🤝 I’m looking for help with critical thinking skills in programming<br>🌱 I’m currently learning programming<br>💬 Life seems happy and sad<br>⚡ Fun fact about me: I do sheet music compositions and music arrangements
 
