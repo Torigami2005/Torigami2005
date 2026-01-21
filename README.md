@@ -1,4 +1,4 @@
-![](Laboratory%2/branding/banner/Header.png)
+![](Laboratory-2/branding/banner/Header.png)
 
 
 # 💫 About Me:
