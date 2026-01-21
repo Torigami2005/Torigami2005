@@ -1,4 +1,4 @@
-![](https://github.com/Torigami2005/Elective-Laboratories/blob/abe3becf72005aa14fb8123553b5464aea84f63c/Laboratory-2/branding/banner/Header.png)
+![](https://github.com/Torigami2005/Elective-Laboratories/blob/cb982eb3b4bc94cba02a7c4544e416e332a365e8/Laboratory-2/branding/banner/Resume%20Header.png)
 
 
 # 💫 About Me:
