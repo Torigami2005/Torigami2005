@@ -1,4 +1,4 @@
-![](Laboratory 2/banner/Resume Header.png)
+![Resume Header](Laboratory%202/banner/Resume%20Header.png)
 
 
 # 💫 About Me:
