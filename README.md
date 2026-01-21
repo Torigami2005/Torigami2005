@@ -1,4 +1,4 @@
-![header](Laboratory-2/branding/banner/Header.png)
+![](https://github.com/Torigami2005/Elective-Laboratories/blob/abe3becf72005aa14fb8123553b5464aea84f63c/Laboratory-2/branding/banner/Header.png)
 
 
 # 💫 About Me:
