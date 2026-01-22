@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on a new project that won't start (jk)<br>🤝 I’m looking for help with critical thinking skills in programming<br>🌱 I’m currently learning programming<br>💬 Life seems happy and sad<br>⚡ Fun fact about me: I do sheet music compositions and music arrangements<br>Here is my branding logo<br> ![Branding Logo](https://github.com/Torigami2005/Elective-Laboratories/blob/8cda43d1d4f6481868d29bf095824ddadb954793/Laboratory-2/branding/logo/Personal%20Branding%20Kit%20Logo.png)
+🔭 I’m currently working on a new project that won't start (jk)<br>🤝 I’m looking for help with critical thinking skills in programming<br>🌱 I’m currently learning programming<br>💬 Life seems happy and sad<br>⚡ Fun fact about me: I do sheet music compositions and music arrangements<br>⚡ Here is my branding logo<br> ![Branding Logo](https://github.com/Torigami2005/Elective-Laboratories/blob/8cda43d1d4f6481868d29bf095824ddadb954793/Laboratory-2/branding/logo/Personal%20Branding%20Kit%20Logo.png)
 
 
 ## 🌐 Socials:
